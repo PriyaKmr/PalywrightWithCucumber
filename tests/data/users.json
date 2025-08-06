@@ -1,0 +1,10 @@
+{
+  "dev": {
+    "email": "devuser@example.com",
+    "password": "devpassword"
+  },
+  "qa": {
+    "email": "qauser@example.com",
+    "password": "qapassword"
+  }
+}
